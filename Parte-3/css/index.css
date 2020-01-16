@@ -189,3 +189,15 @@ label{
     display: block;
     margin: 15px;
 }
+
+.comment {
+    text-align: left;
+}
+
+.comment p {
+    margin: 0;
+}
+
+.comment h3 {
+    color: turquoise;
+}
